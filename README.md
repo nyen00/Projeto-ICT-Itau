@@ -17,7 +17,6 @@
 ## Descrição do Projeto
 Este projeto desenvolve um pipeline de ingestão, processamento e modelagem de dados de custos de instâncias em nuvem, utilizando dados públicos do Google Cloud. O foco inclui análise exploratória (EDA), processamento de dados e a implementação de modelos de machine learning (Regressão Linear e XGBoost) para prever o custo por vCPU/hora com base em características como vCPUs, memória, família de instância, região e localização.
 
-O objetivo é apoiar decisões estratégicas de otimização de custos no contexto do ICT Itaú.
 
 ## Objetivos
 1. Ingestão e limpeza de dados de custo de nuvem.  
