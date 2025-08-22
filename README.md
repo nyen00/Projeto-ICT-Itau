@@ -75,7 +75,7 @@ Os modelos foram avaliados com:
 | Modelo              | MAE     | RMSE    | R²     |
 |----------------------|---------|---------|--------|
 | Regressão Linear     | 0.01683 | 0.03553 | 0.6098 |
-| XGBoost Regressor    | 0.00541 | 0.00947 | 0.9723 |
+| XGBoost              | 0.00541 | 0.00947 | 0.9723 |
 
 #### Interpretação das Métricas
 - **Regressão Linear**: Com R² de 0.6098, explica 61% da variância, com MAE de 0.01683 e RMSE de 0.03553. O desempenho moderado reflete a dificuldade em modelar a cauda longa e a não-linearidade observada na EDA.
